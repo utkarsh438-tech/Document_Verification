@@ -1,0 +1,36 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.feature-card {
+  @apply bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition-shadow;
+}
+
+.feature-card-icon {
+  @apply mb-4;
+}
+
+.feature-card-title {
+  @apply text-xl font-semibold mb-2;
+}
+
+.feature-card-description {
+  @apply text-gray-600;
+}
+
+.step-card {
+  @apply relative p-6;
+}
+
+.step-card-number {
+  @apply text-4xl font-bold text-blue-600 mb-4;
+}
+
+.step-card-title {
+  @apply text-xl font-semibold mb-2;
+}
+
+.step-card-description {
+  @apply text-gray-600;
+} */

@@ -1,0 +1,17 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* Custom base styles */
+ /* html {
+  scroll-behavior: smooth;
+} */
+
+/* body {
+  @apply text-gray-900 bg-gray-50;
+} */
+
+/* Custom utility classes */
+/* .container {
+  @apply mx-auto px-4 sm:px-6 lg:px-8;
+}  */
