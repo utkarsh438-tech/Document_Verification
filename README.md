@@ -14,8 +14,7 @@ cd Document_Verification
 # Install dependencies
 npm install
 
-# Navigate to the latest version
-cd latest
+ 
 
 # Start the development server
 npm run dev
