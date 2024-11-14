@@ -20,7 +20,7 @@ const App = () => {
           <Route path="/history" element={<History />} />
         </Routes>
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }
